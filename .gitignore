@@ -1,0 +1,7 @@
+# Raw Land Registry files and generated tables (re-creatable)
+pp-*.csv
+powerbi_data/
+tableau_data/
+__pycache__/
+.pytest_cache/
+.venv/
